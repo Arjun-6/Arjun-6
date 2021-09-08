@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arjun-6
-- 👀 I’m interested in ... Enhancing my skills in coding as a Software Develooper and contributing to open source projects
+- 👀 I’m interested in ... Enhancing my skills in coding as a Software Developer and contributing to open source projects
 - 🌱 I’m currently learning ... Phyton, Java and JavaScript
 - 💞️ I’m looking to collaborate on ... Open souce projects related to Blockchain and WebDev
 - 📫 How to reach me ... arjunspr282@gmail.com
